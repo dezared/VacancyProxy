@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnYQobumYncHmWOME0O9b9ll3Zkgh4OYWK9CTitYIYnd+ds39Ajr9X81y1r7wlzN1cemM09hiRxhBr3ffRNueA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fearp\\source\\repos\\HabrProxy\\VacancyProxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fearp\\.nuget\\packages\\anglesharp\\1.0.1\\anglesharp.1.0.1.nupkg.sha512",
+    "C:\\Users\\Fearp\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\Fearp\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Fearp\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
